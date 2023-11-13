@@ -1,12 +1,22 @@
 ### Hello there 👋 My name is Quynh Chu
 
-I'm a rising junior at DePauw University studying Computer Science!
+I'm a junior at DePauw University studying Computer Science!
 
-🔭 I’m currently working on web and game development projects
-🌱 I’m currently learning frontend and backend applications and resources
-😄 Pronouns: she/her/hers
-⚡ Fun fact: I love playing table tennis!
-📫 How to reach me: chudiemquynh195@gmail.com
+- 🔭 I’m currently working on web and game development projects
+- 🌱 I’m currently learning frontend and backend applications and resources
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I love playing table tennis!
+- 📫 How to reach me: chudiemquynh195@gmail.com
+
+</br>
+
+### I'm currently learning
+
+- Next.JS
+- TailwindCSS
+- Styled Components
+
+</br>
 
 ### Tech Stack: 
 
@@ -18,6 +28,8 @@ I'm a rising junior at DePauw University studying Computer Science!
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
+
+</br>
 
 ### Github Stats
 
