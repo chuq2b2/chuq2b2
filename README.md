@@ -1,6 +1,6 @@
 ### Hello there 👋 My name is Quynh Chu
 
-I'm a junior at DePauw University studying Computer Science!
+I'm a senior at DePauw University studying Computer Science!
 
 - 🔭 I’m currently working on web and game development projects
 - 🌱 I’m currently learning frontend and backend applications and resources
@@ -14,7 +14,6 @@ I'm a junior at DePauw University studying Computer Science!
 
 - Next.JS
 - TailwindCSS
-- Styled Components
 
 </br>
 
