@@ -1,12 +1,11 @@
 ### Hello there 👋 My name is Quynh Chu
 
-I'm a senior at DePauw University studying Computer Science!
+Alumni at DePauw University!
 
 - 🔭 I’m currently working on web and game development projects
 - 🌱 I’m currently learning frontend and backend applications and resources
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love playing table tennis!
-- 📫 How to reach me: chudiemquynh195@gmail.com
 
 </br>
 
@@ -14,7 +13,6 @@ I'm a senior at DePauw University studying Computer Science!
 
 - Supabase
 - PostgreSQL
-- Clerk Authentication
 - AWS S3
 
 </br>
