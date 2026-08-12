@@ -11,8 +11,7 @@ Alumni at DePauw University!
 
 ### I'm currently learning
 
-- Supabase
-- PostgreSQL
+- Ruby
 - AWS S3
 
 </br>
@@ -27,6 +26,7 @@ Alumni at DePauw University!
 ![VueJS](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -37,9 +37,9 @@ Alumni at DePauw University!
 
 ### Github Stats
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=chuq2b2)](https://github.com/chuq2b2)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=chuq2b2)](https://github.com/stats-organization/github-stats-extended)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chuq2b2&layout=compact)](https://github.com/chuq2b2)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=chuq2b2&layout=compact)](https://github.com/chuq2b2)
 
 <!--
 **chuq2b2/chuq2b2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
